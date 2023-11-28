@@ -1,0 +1,27 @@
+[INFO ] 2023-11-28 16:03:58.598 [main] StepDefinitionOfWebsite - Driver setUp Successfully
+[INFO ] 2023-11-28 16:04:06.225 [main] StepDefinitionOfWebsite - Navigated to the website homepage
+[INFO ] 2023-11-28 16:04:08.566 [main] StepDefinitionOfWebsite - Entered valid username and password
+[INFO ] 2023-11-28 16:04:10.161 [main] StepDefinitionOfWebsite - Clicked on the login button
+[INFO ] 2023-11-28 16:04:11.072 [main] StepDefinitionOfWebsite - Login successful. Dashboard page displayed
+[INFO ] 2023-11-28 16:04:13.643 [main] StepDefinitionOfWebsite - Driver closed Successfully
+[INFO ] 2023-11-28 16:04:17.629 [main] StepDefinitionOfWebsite - Driver setUp Successfully
+[INFO ] 2023-11-28 16:04:24.183 [main] StepDefinitionOfWebsite - Navigated to the website homepage
+[INFO ] 2023-11-28 16:04:24.982 [main] StepDefinitionOfWebsite - Entered invalid username
+[INFO ] 2023-11-28 16:04:25.064 [main] StepDefinitionOfWebsite - Entered invalid password
+[INFO ] 2023-11-28 16:04:26.097 [main] StepDefinitionOfWebsite - Clicked on the login button
+[INFO ] 2023-11-28 16:04:26.900 [main] StepDefinitionOfWebsite - Login unsuccessful. Error message displayed
+[INFO ] 2023-11-28 16:04:27.331 [main] StepDefinitionOfWebsite - Driver closed Successfully
+[INFO ] 2023-11-28 16:04:30.289 [main] StepDefinitionOfWebsite - Driver setUp Successfully
+[INFO ] 2023-11-28 16:04:35.491 [main] StepDefinitionOfWebsite - Navigated to the website homepage
+[INFO ] 2023-11-28 16:04:36.102 [main] StepDefinitionOfWebsite - Entered invalid username
+[INFO ] 2023-11-28 16:04:36.178 [main] StepDefinitionOfWebsite - Entered invalid password
+[INFO ] 2023-11-28 16:04:37.429 [main] StepDefinitionOfWebsite - Clicked on the login button
+[INFO ] 2023-11-28 16:04:37.893 [main] StepDefinitionOfWebsite - Login unsuccessful. Error message displayed
+[INFO ] 2023-11-28 16:04:38.844 [main] StepDefinitionOfWebsite - Driver closed Successfully
+[INFO ] 2023-11-28 16:04:42.407 [main] StepDefinitionOfWebsite - Driver setUp Successfully
+[INFO ] 2023-11-28 16:04:49.539 [main] StepDefinitionOfWebsite - Navigated to the website homepage
+[INFO ] 2023-11-28 16:04:50.301 [main] StepDefinitionOfWebsite - Entered invalid username
+[INFO ] 2023-11-28 16:04:50.382 [main] StepDefinitionOfWebsite - Entered invalid password
+[INFO ] 2023-11-28 16:04:51.293 [main] StepDefinitionOfWebsite - Clicked on the login button
+[INFO ] 2023-11-28 16:04:51.913 [main] StepDefinitionOfWebsite - Login unsuccessful. Error message displayed
+[INFO ] 2023-11-28 16:04:52.546 [main] StepDefinitionOfWebsite - Driver closed Successfully
